@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevin-v96
-- 👀 I’m interested in Data Science, AI, and their intersection with political economy
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects that focus on the political economy of data or on using data for economic planning purposes
+- 👀 I’m interested in Data Science, AI, and NLP
+- 🌱 I’m a Data Science and Analytics grad from Royal Holloway, University of London
+- 💞️ I’m looking to collaborate on Data Science Projects, especially those in NLP and focusing on LLMs. I'm also actively looking for Data Science jobs.
 - 📫 How to reach me: kevinvegda@gmail.com
 
 <!---
